@@ -1,21 +1,4 @@
-## Hi there 👋
-
-```{=html}
-<!--
-**asheshwor/asheshwor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-```
+## About
 
 Hello there👋, I’m Asheshwor😊.
 
@@ -25,7 +8,6 @@ My tools of the trade include: R, Google Earth Engine (GEE), Shiny, Python, QGIS
 
 I am always happy to hear from fellow researchers and planning professionals so please get in touch and we can get the conversation started, or better yet, if you are in Adelaide, we could meet for a coffee ☕ and a chat in person.
 
-If you are interested in contacting me, I can always be reached by email at asheshwor[at]gmail.com.
 
 ### 👯 Looking to collaborate on the following research areas
 
@@ -37,3 +19,5 @@ If you are interested in contacting me, I can always be reached by email at ashe
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer"/>
 
 </p>
+
+If you are interested in contacting me, I can always be reached by email at asheshwor[at]gmail.com.
