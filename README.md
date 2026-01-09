@@ -1,13 +1,14 @@
-## About
+## Hello there👋, I’m Asheshwor😊.
 
-Hello there👋, I’m Asheshwor😊.
+<p><em>Urban Planner & Researcher</br> </em></p>
 
-Originally for Nepal, I currently reside in Adelaide, Australia with my wife. I have been working in the field of urban planning and architectural design for over ten years and as a researcher for over five years. My recent work has concentrated on spatial analysis of socio-environmental relationships and environmental equity in urban contexts, utilizing remote sensing data and geospatial methodologies.
+<a href="https://orcid.org/0000-0002-1485-9970" aria-label="View ORCID record - 0000-0002-1485-9970"><img src="www/ORCID-iD_icon_vector.svg" alt="ORCID iD"/> https://orcid.org/0000-0002-1485-9970</a>
+
+Originally for Nepal, I currently live in Adelaide, Australia with my wife. I have been working in the field of urban planning and architectural design for over ten years and as a researcher for over five years. My recent work has concentrated on spatial analysis of socio-environmental relationships and environmental equity in urban contexts, utilizing remote sensing data and geospatial methodologies.
 
 My tools of the trade include: R, Google Earth Engine (GEE), Shiny, Python, QGIS and Autodesk Revit.
 
 I am always happy to hear from fellow researchers and planning professionals so please get in touch and we can get the conversation started, or better yet, if you are in Adelaide, we could meet for a coffee ☕ and a chat in person.
-
 
 ### 👯 Looking to collaborate on the following research areas
 
