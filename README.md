@@ -8,19 +8,19 @@ Originally for Nepal, I currently live in Adelaide, Australia with my wife. I ha
 
 I am always happy to hear from fellow researchers and planning professionals so please get in touch and we can get the conversation started, or better yet, if you are in Adelaide, we could meet for a coffee ☕ and a chat in person.
 
-## 🧰 &nbsp;My toolbox
-<a href="https://github.com/asheshwor">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=r,py,js,html,gcp,github,aws,blender,docker,&perline=12" />
-</div>
-</a>
-
 ### 👯 Looking to collaborate on the following research areas
 
 -   Urban socio-environmental analysis in Australia, Nepal, Vietnam, South Korea and the Pacific Islands.
 -   Socio-ecological research in developing regions.
 
 If you are interested in contacting me, I can always be reached by email at asheshwor[at]gmail.com.
+
+## 🧰 &nbsp;My toolbox
+<a href="https://github.com/asheshwor">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=r,py,js,html,gcp,github,aws,blender,docker,&perline=12" />
+</div>
+</a>
 
 <p align="center">
 
