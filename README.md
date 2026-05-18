@@ -10,8 +10,8 @@ I am always happy to hear from fellow researchers and planning professionals so 
 
 ### 🤝 Looking to collaborate on the following research areas
 
--   Urban socio-environmental analysis in Australia, Nepal, Vietnam, South Korea and the Pacific Islands.
--   Socio-ecological research in developing regions.
+- Urban socio-environmental analysis in Australia, Nepal, Vietnam, South Korea and the Pacific Islands.
+- Socio-ecological research in developing regions.
 
 If you are interested in contacting me, I can always be reached by e-mail at asheshwor [at] gmail.
 
@@ -21,7 +21,7 @@ If you are interested in contacting me, I can always be reached by e-mail at ash
 
 ::: {align="center"}
 ```         
-   <img src="https://skillicons.dev/icons?i=r,py,js,gcp,aws,autodesk, blender,docker,ubuntu,&perline=12" />
+   <img src="https://skillicons.dev/icons?i=r,py,js,gcp,aws,autodesk,blender,docker,ubuntu,&perline=12" />
 ```
 :::
 
