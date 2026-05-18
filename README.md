@@ -13,14 +13,18 @@ I am always happy to hear from fellow researchers and planning professionals so 
 -   Urban socio-environmental analysis in Australia, Nepal, Vietnam, South Korea and the Pacific Islands.
 -   Socio-ecological research in developing regions.
 
-If you are interested in contacting me, I can always be reached by email at asheshwor[at]gmail.com.
+If you are interested in contacting me, I can always be reached by e-mail at asheshwor [at] gmail.
 
 ### 🧰 My toolbox
 
 <a href="https://github.com/asheshwor">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=r,py,js,html,gcp,github,aws,blender,docker,&perline=12" />
-</div>
+
+::: {align="center"}
+```         
+   <img src="https://skillicons.dev/icons?i=r,py,js,gcp,aws,autodesk, blender,docker,ubuntu,&perline=12" />
+```
+:::
+
 </a>
 
 <p align="center">
