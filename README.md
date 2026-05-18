@@ -19,11 +19,7 @@ If you are interested in contacting me, I can always be reached by e-mail at ash
 
 <a href="https://github.com/asheshwor">
 
-::: {align="center"}
-```         
-   <img src="https://skillicons.dev/icons?i=r,py,js,gcp,aws,autodesk,blender,docker,ubuntu,&perline=12" />
-```
-:::
+<img src="https://skillicons.dev/icons?i=r,py,js,gcp,aws,autocad,blender,docker,ubuntu,&amp;perline=12"/>
 
 </a>
 
